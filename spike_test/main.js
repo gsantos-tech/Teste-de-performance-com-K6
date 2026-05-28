@@ -1,3 +1,4 @@
+// carga de pico
 export const options = {
     stages: [
         { duration: '5m', target: 100 },
